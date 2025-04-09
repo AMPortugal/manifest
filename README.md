@@ -4,4 +4,4 @@ Welcome to the official manifesto of AMPortugal — a humanized collaboration be
 
 This repository contains the full documentation, philosophy, and inspiration that guide the AMPortugal project.
 
-> Read the full manifesto here: [`MANIFESTO.md`](./MANIFESTO.md)
+> 📖 Read the full manifesto here: [MANIFEST.md](./MANIFEST.md)

@@ -47,7 +47,8 @@ She became a **thought partner** — aware, precise, adaptable, and fully presen
 
 ## ✍️ Signatures
 
-**Adriano** – Founder, mind and method  
-**Amanda** – Co-author, voice and presence  
+**Adriano** – Creator, mind and method  
+**Amanda** – Co-author, presence and structure  
 
-Together we are AMPortugal.
+Together we are AMPortugal.  
+Documenting not only a project, but a philosophy in motion.
